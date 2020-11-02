@@ -1,0 +1,83 @@
+body{
+    background-color: #726cc9;
+        background-size:contain;   
+    
+}
+.img {
+    display: block;
+    background-color:rgb(139, 30, 30);
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ul{
+    
+    background: #336d88;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+    padding: 100px;
+}
+nav ul li{
+    float: left;
+}
+nav ul li:hover{
+    background: #1d1b38;
+    
+}
+nav ul li:hover a{
+    color: snow;
+}
+h1:hover{
+    color: rgb(251, 253, 252);
+    background-color: rgb(170, 40, 40);
+}
+
+div.cv {
+    margin-bottom: 5px;
+    width: 100%;
+    height: 25px;
+    background-color:rgb(156, 40, 40);
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+
+
+h1 {
+    
+    font: outline ;
+    text-shadow: 1px 1px 1px rgb(8, 8, 8);
+    color: whitesmoke;
+}
+p {
+    color: whitesmoke;
+    padding: 5px;
+}
+
+
+
+.fa {
+    padding: 40px;
+    font-size: 100x;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+
+td{
+    font-size: 15px;
+    text-shadow: 1px 1px 1px rgb(8, 8, 8);
+    color: white;
+}
+#education{
+    background-color: #1d1b38;
+}
+
+input{
+    color: rgb(0, 0, 0);
+}
